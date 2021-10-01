@@ -1,2 +1,2 @@
 # CSSUDII
-- Services Status: status.cssudii.tk
+- Services Status: http://status.cssudii.tk
