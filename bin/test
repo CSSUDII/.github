@@ -1,1 +1,18 @@
-// EXPORT=ALL[]
+/**
+    THIS IS A TEST FILE
+    DO NOT EDIT
+*/
+
+ENV = {
+    BIN: "/lib/bin",
+    VAR: "/lib/ext/var",
+    EXT: "/lib/ext/m"
+}
+
+ENV_BACKUP uses ENV as ** = {
+    **/**: "/lib/backup/**"
+}
+
+/**
+    END OF TEST FILE
+*/    
