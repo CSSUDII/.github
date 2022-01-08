@@ -10,7 +10,8 @@ ENV = {
 }
 
 ENV_BACKUP uses ENV as ** = {
-    **/**: "/lib/backup/**"
+    **/**: "/lib/backup/**",
+    /**/**/**: "/lib/backup/**/**"
 }
 
 /**
