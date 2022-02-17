@@ -10,3 +10,6 @@ The official CSSUDII project
 ![cssudii_badges_api](https://badges.cssudii.tk/generate/https/Badges%20API/api.cssudii.tk)
 
 ![cssudii_ci_server](https://badges.cssudii.tk/generate/https/CI%20Server/ci.cssudii.tk)
+
+### Other CSSUDII project organisations
+- [PicesMC Network](https://github.com/PicesMC-Network)
