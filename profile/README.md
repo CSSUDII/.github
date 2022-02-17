@@ -1,11 +1,12 @@
 # CSSUDII
-- Services Status: http://status.cssudii.tk
 
-## Quick Status
-![api_status](https://badges.cssudii.tk/generate/https/API%20Status/api.cssudii.tk)
+The official CSSUDII project
 
-![core_site_status](https://badges.cssudii.tk/generate/https/Core%20Site%20Status/cssudii.tk)
+## Services
+![cssudii_main_site](https://badges.cssudii.tk/generate/https/Main%20Site/cssudii.tk)
 
-![we-bt16_status](https://badges.cssudii.tk/generate/https/WE-B16%20Dashboard/we-bt16.cssudii.tk)
+![cssudii_public_api](https://badges.cssudii.tk/generate/https/Public%20API/api.cssudii.tk)
 
-![we-bt16_docs_status](https://badges.cssudii.tk/generate/https/WE-B16%20Docs/docs.we-bt16.cssudii.tk)
+![cssudii_badges_api](https://badges.cssudii.tk/generate/https/Badges%20API/api.cssudii.tk)
+
+![cssudii_ci_server](https://badges.cssudii.tk/generate/https/CI%20Server/ci.cssudii.tk)
